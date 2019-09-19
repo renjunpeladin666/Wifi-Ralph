@@ -1,0 +1,6 @@
+#sobre {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 133, 190);
+    display: flex;
+    flex-direction: column;
+}
