@@ -1,0 +1,58 @@
+@import "universal.css";
+
+main {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+div {
+    height: 500px;
+    max-width: 800px;
+    background-color: rgba(114, 0, 0, 0.6);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    font-weight: bold;
+    align-self: center;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: rgb(40, 221, 221);
+}
+
+#John-main {
+    background-image: url('../img/John.jpg');
+}
+
+#Sarah-main {
+    background-image: url('../img/Sarah.jpg');
+}    
+
+#McBrayer-main {
+    background-image: url('../img/McBrayer.jpg');
+}

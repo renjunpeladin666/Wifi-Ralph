@@ -3,4 +3,22 @@
     background-color: rgb(255, 133, 190);
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px
 }
+#sobre p span {
+    color: rgb(159, 240, 199);
+    font-weight: bold;
+}
+ #sobre p {
+     margin-bottom: 40px;
+ }
+#sinopse {
+    max-width: 800px;
+    text-align: center;
+}
+ #sinopse h3 {
+     color: rgb(159, 240, 199);
+     margin-bottom: 20px;
+ }

@@ -1,0 +1,59 @@
+#item1 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTgxNTM2Njk3M15BMl5BanBnXkFtZTgwOTQyMjI5NDM@._V1_SX1777_CR0,0,1777,744_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item2 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTc2ODM0MTIzNl5BMl5BanBnXkFtZTgwMTM1MzE1NjM@._V1_SX1777_CR0,0,1777,744_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item3 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+#item4 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTgwMDA0Mzg4OF5BMl5BanBnXkFtZTgwNjk1MjQ2NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg");
+    grid-row: span 3;
+    grid-column: span 1;
+}
+
+#item5 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjc4YWFhYzQtYTA4Ny00ZGY1LWI4YmQtNWVlMzA0ZGFhMTUxXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item6 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYTBkZjY2NTAtZGYyMC00MTViLThmODYtNzAwMzdlYTFlYjM1XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_SX1777_CR0,0,1777,741_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item7 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZmNlMTU1MWItMDMwOC00OTBhLTk1MDYtNTc1YTVmMjg0OTcwXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_SX1777_CR0,0,1777,663_AL_.jpg");
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+#item8 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMDQ2ODgyYjctMDQ2Zi00OWI4LWJmZTItNDViMjA4NjZjZjM3XkEyXkFqcGdeQXVyMjc3MzkyMzE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item9 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNGYyZDRjNDQtZjRmOC00OGNhLThiZGItMjNmNjExZjllYTI5XkEyXkFqcGdeQXVyMzc1MTQ5MTI@._V1_SX1777_CR0,0,1777,724_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item10 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZTRiZjJlOWYtZDQ3YS00OTlhLWI0ZDQtNTQzMWJlZTk3NTliXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}

@@ -1,0 +1,28 @@
+#critica {
+    background-color: rgb(178, 137, 226);
+}
+
+#critica p {
+    padding: 20px;
+    font-size: 18px;
+    text-align: justify;
+    color: rgb(30,30,30);
+}
+
+#critica>div {
+    margin-bottom: 50px;
+    column-count: auto;
+    column-width: 350px;
+    column-rule: 1px solid rgb(0, 0, 0);
+    width: 90vw;
+    max-width: 1200px;
+}
+
+p#autor-critica {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+#autor-critica a {
+    color: rgb(0, 0, 0);
+}
